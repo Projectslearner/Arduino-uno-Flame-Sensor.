@@ -60,3 +60,16 @@ This project can be used in various applications including:
 - **Environmental Monitoring:** To monitor areas for unexpected fires, especially in wildfire-prone regions.
 
 By understanding the basics of how to interface and use a flame sensor with Arduino, you can expand this project to include more sophisticated functionalities such as sending alerts via SMS or email, activating alarms, or integrating with a home automation system for enhanced safety.
+
+---
+
+### Whether you're working on electronics projects, IoT applications, or robotics innovations, Projects Learner is your go-to platform for guidance and expertise.
+
+🌐 [projectslearner.com](https://www.projectslearner.com)  
+📧 [projectslearner@gmail.com](mailto:projectslearner@gmail.com)  
+📸 [Instagram](https://www.instagram.com/projectslearner/)  
+📘 [Facebook](https://www.facebook.com/projectslearner)  
+▶️ [YouTube](https://www.youtube.com/@ProjectsLearner)  
+📘 [LinkedIn](https://www.linkedin.com/in/projectslearner)  
+
+## Made for you with ❣️ from ProjectsLearner
